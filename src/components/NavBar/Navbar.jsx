@@ -16,7 +16,7 @@ const Navbar = () => {
             })
     }
     return (
-        <div className="navbar bg-base-100 max-w-[90rem] m-auto">
+        <div className="navbar bg-base-100 max-w-[90rem] m-auto " data-aos="fade-right">
             <div className="navbar-start w-[60%] hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
                     <li className="mx-2"><NavLink to="/">Home</NavLink></li>

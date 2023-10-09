@@ -2,7 +2,7 @@ import { CountUp } from "use-count-up";
 const HappyClient = () => {
 
     return (
-        <div className="hero" style={{ backgroundImage: 'url(https://images.unsplash.com/photo-1472653431158-6364773b2a56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGZlc3RpdmFsfGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1000&q=60)' }}>
+        <div className="hero bg-fixed" style={{ backgroundImage: 'url(https://images.unsplash.com/photo-1472653431158-6364773b2a56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGZlc3RpdmFsfGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1000&q=60)' }}>
             <div className="hero-overlay bg-opacity-60"></div>
             <div className="hero-content text-center text-neutral-content">
                 <div className="text-center flex py-8">

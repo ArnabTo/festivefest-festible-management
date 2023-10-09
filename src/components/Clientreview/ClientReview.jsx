@@ -14,11 +14,11 @@ const ClientReview = () => {
       <div className="mx-auto max-w-screen-2xl px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
         <div className="md:flex md:items-end md:justify-between">
           <div className="max-w-xl">
-            <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
+            <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl" data-aos="fade-up">
               Read trusted reviews from our customers
             </h2>
 
-            <p className="mt-6 max-w-lg leading-relaxed text-gray-700">
+            <p className="mt-6 max-w-lg leading-relaxed text-gray-700" data-aos="fade-up">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
               praesentium natus sapiente commodi. Aliquid sunt tempore iste
               repellendus explicabo dignissimos placeat, autem harum dolore
@@ -49,7 +49,7 @@ const ClientReview = () => {
           </a>
         </div>
 
-        <div className="mt-8 grid grid-cols-1 gap-4 md:grid-cols-3">
+        <div className="mt-8 grid grid-cols-1 gap-4 md:grid-cols-3" data-aos="fade-up">
           {
             review.map(rev => <Review rev={rev} key={rev.id}></Review>)
           }
