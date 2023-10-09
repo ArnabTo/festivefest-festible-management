@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+/* font-family: 'Epilogue', sans-serif; */
+/* font-family: 'Young Serif', serif; */
+/* font-family: 'Lora', serif; */
+body{
+    font-family: 'Young Serif', serif;
+}
+p{
+ font-family: 'Lora', serif; 
+}
+a{
+    font-family: 'Lora', serif; 
+}
