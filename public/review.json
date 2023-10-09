@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "rating": 5,
+    "client": "Sarah L.",
+    "review": "I can't thank the team at [Your Company Name] enough for making our cultural celebration a memorable event. From the planning stage to execution, everything was flawless. The attention to detail and the incorporation of our cultural traditions were outstanding. Our guests were truly impressed. We're looking forward to working with you for future celebrations."
+  },
+  {
+    "id":2,
+    "rating": 4,
+    "client": "David P.",
+    "review": "Our community's cultural event turned out to be a fantastic experience thanks to [Your Company Name]. The organization and coordination of the event were commendable. The only reason I'm giving it 4 stars is because the food service had a minor delay, but it was resolved quickly. Overall, a great event management team!"
+  },
+  {
+    "id":3,
+    "rating": 5,
+    "client": "Maria R.",
+    "review": "I had the pleasure of working with [Your Company Name] for our family's cultural celebration. The entire experience was beyond expectations. They truly understood our vision and brought it to life with precision. From the decorations to the entertainment, it was a night to remember. I highly recommend [Your Company Name] for their professionalism and creativity."
+  }
+]

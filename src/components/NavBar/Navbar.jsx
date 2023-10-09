@@ -23,7 +23,8 @@ const Navbar = () => {
                     <li className="mx-2" tabIndex={0}><NavLink to="/abt">About Us</NavLink></li>
                     <li className="mx-2"><NavLink to="/serv">Services</NavLink></li>
                     <li><NavLink to="/gal">Gallery</NavLink></li>
-                    <li><NavLink to="/testi">Reviews</NavLink></li>
+                    <li><NavLink to="/blog">Blogs</NavLink></li>
+                    <li><NavLink to="/rev">Reviews</NavLink></li>
                     <li><NavLink to="/cont">Contact Us</NavLink></li>
                 </ul>
             </div>
@@ -37,6 +38,7 @@ const Navbar = () => {
                         <li><NavLink to="/abt">About Us</NavLink></li>
                         <li><NavLink to="/serv">Services</NavLink></li>
                         <li><NavLink to="/gal">Gallery</NavLink></li>
+                        <li><NavLink to="/blog">Blog</NavLink></li>
                         <li><NavLink to="/testi">TestimoniNavLinkl</NavLink></li>
                         <li><NavLink to="/cont">Contact Us</NavLink></li>
                     </ul>

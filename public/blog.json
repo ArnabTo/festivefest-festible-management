@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "thumbnail": "https://i.ibb.co/1vg0TZc/udayaditya-barua-xis-PXJqw-Qk-A-unsplash.jpg",
+        "title": "Festive Diwali Celebrations",
+        "details": "Explore the colorful traditions and rituals of Diwali, the festival of lights, in this in-depth guide.",
+        "publish_date": "2023-04-15"
+    },
+    {
+        "id": 2,
+        "thumbnail": "https://i.ibb.co/vqHxn42/devon-rogers-r-SJkrx-TI1v-Q-unsplash.jpg",
+        "title": "Carnival in Rio de Janeiro",
+        "details": "Experience the electrifying energy of Brazil's Carnival and its samba parades through this immersive account.",
+        "publish_date": "2023-02-28"
+    },
+    {
+        "id": 3,
+        "thumbnail": "https://i.ibb.co/vhf7dys/mos-design-Rz7-Begv-Icew-unsplash.jpg",
+        "title": "Hanami: Cherry Blossom Viewing",
+        "details": "Discover the beauty of Japanese hanami, where people gather to admire cherry blossoms in full bloom.",
+        "publish_date": "2023-05-10"
+    },
+    {
+        "id": 4,
+        "thumbnail": "https://i.ibb.co/vccXZvG/kel-avelino-y-LW1yz-CK2-HY-unsplash.jpg",
+        "title": "Cultural Ramadan Traditions",
+        "details": "Learn about the diverse cultural practices during the holy month of Ramadan across different countries.",
+        "publish_date": "2023-04-29"
+    },
+    {
+        "id": 5,
+        "thumbnail": "https://i.ibb.co/D9YG02W/pablo-heimplatz-ZODc-Bk-Eohk8-unsplash.jpg",
+        "title": "Oktoberfest: A German Tradition",
+        "details": "Dive into the history and cultural significance of Oktoberfest, the world's largest beer festival.",
+        "publish_date": "2023-09-22"
+    },
+    {
+        "id": 6,
+        "thumbnail": "https://i.ibb.co/N2WFpqb/dibakar-roy-SHsgh0s115c-unsplash.jpg",
+        "title": "Holi: The Festival of Colors",
+        "details": "Experience the joy and exuberance of India's Holi festival, where people play with colored powders and water.",
+        "publish_date": "2023-03-14"
+    },
+    {
+        "id": 7,
+        "thumbnail": "https://i.ibb.co/jy8JXCD/jeremy-brady-jx-ELf-MEx-I8-I-unsplash.jpg",
+        "title": "Mardi Gras in New Orleans",
+        "details": "Get to know the lively atmosphere of Mardi Gras, a carnival season filled with parades and festivities.",
+        "publish_date": "2023-01-30"
+    },
+    {
+        "id": 8,
+        "thumbnail": "https://i.ibb.co/q7mHfh2/chandramohan-sudar-c-SO-8ib-PZWM-unsplash.jpg",
+        "title": "Midsummer in Sweden",
+        "details": "Celebrate the enchanting Swedish Midsummer tradition with dance, flower crowns, and maypole festivities.",
+        "publish_date": "2023-06-20"
+    },
+    {
+        "id": 9,
+        "thumbnail": "https://i.ibb.co/jySDLWq/jamie-fenn-PEVG-cqr-IVo-unsplash.jpg",
+        "title": "Chinese New Year Spectacle",
+        "details": "Discover the customs, dragon dances, and delicious cuisine associated with the Chinese New Year.",
+        "publish_date": "2023-02-10"
+    }
+]

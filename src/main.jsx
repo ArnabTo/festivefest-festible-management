@@ -13,6 +13,10 @@ import App from './App';
 import AnimatedCursor from "react-animated-cursor"
 import ServiceDetails from './components/Service/ServiceDetails';
 import AuthProvider from './provider/AuthProvider';
+import Gallery from './components/Gallery/Gallery';
+import PrivateRoute from './components/Private/PrivateRoute';
+import ClientReview from './components/Clientreview/ClientReview';
+import Blogs from './components/Blog/Blogs';
 
 const router = createBrowserRouter([
   {
@@ -36,6 +40,18 @@ const router = createBrowserRouter([
       {
         path:'/abt',
         element:<About></About>
+      },
+      {
+        path:'/gal',
+        element:<PrivateRoute><Gallery></Gallery></PrivateRoute>
+      },
+      {
+        path:'/rev',
+        element:<ClientReview></ClientReview>
+      },
+      {
+        path:'/blog',
+        element:<PrivateRoute><Blogs></Blogs></PrivateRoute>
       },
       {
         path:'/log',
