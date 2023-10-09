@@ -53,10 +53,10 @@ const Navbar = () => {
                         </div>
                     </label>
                     <p className="m-auto md:mx-4">
-                    {
-                        user && user.displayName
-                    }
-                </p>
+                        {
+                            user && user.displayName
+                        }
+                    </p>
                 </div>
                 {
                     user ? <button onClick={handleLogOut} className="btn btn-primary mx-4">Log Out</button> : <button className="btn btn-primary mx-4"><NavLink to="/log">Login</NavLink></button>
