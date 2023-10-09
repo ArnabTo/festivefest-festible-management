@@ -17,12 +17,9 @@ const ClientReview = () => {
             <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl" data-aos="fade-up">
               Read trusted reviews from our customers
             </h2>
-
             <p className="mt-6 max-w-lg leading-relaxed text-gray-700" data-aos="fade-up">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
-              praesentium natus sapiente commodi. Aliquid sunt tempore iste
-              repellendus explicabo dignissimos placeat, autem harum dolore
-              reprehenderit quis! Quo totam dignissimos earum.
+              At Festivefest, our clients are at the heart of everything we do. We take pride in delivering exceptional services and products that meet and exceed their expectations. As a result, we're thrilled to share that we have had the privilege of serving over 1,237 satisfied clients and counting.
+              Our commitment to client satisfaction is unwavering, and we are dedicated to ensuring that every interaction with us is a positive one. We believe that our growing number of happy clients is a testament to our dedication to excellence.
             </p>
           </div>
 
