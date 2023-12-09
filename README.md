@@ -1,8 +1,19 @@
-# React + Vite
+# FestiveFest - Festival Management with React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to FestiveFest, your go-to platform for Festival Management built with React. Experience easy sign-up and a personalized festival journey with Google Authentication.
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Key Features
+
+- **Google Authentication-Enabled Account Creation:** Enjoy a seamless sign-up and login process via Google Authentication, ensuring a secure and personalized festival experience.
+
+- **Responsive Design & Accessibility:** Immerse yourself in a responsive website, designed to cater to various devices and screen sizes, providing an optimal user experience and enhanced accessibility.
+
+## Experience FestiveFest
+
+Explore the live Festival Management platform: [FestiveFest](https://arsdev-festivefest.netlify.app/)
+
+## GitHub Repository
+
+Discover the codebase on GitHub: [FestiveFest GitHub](https://github.com/ArnabTo/festivefest-festible-management). Your contributions and feedback are highly appreciated.
